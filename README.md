@@ -2,10 +2,10 @@
 
 This project demonstrates a complete machine learning pipeline to detect cyber attacks using a large-scale dataset of over 2.5 million records. It showcases the process of cleaning real-world data, preventing data leakage, handling mixed data types, and training a highly accurate classification model.
 
-Project Overview
-Objective: Detect cyber attacks using tabular network data
+<h3>Project Overview</h3>
+<i>Objective: Detect cyber attacks using tabular network data</i>
 
-Dataset: UNSW-NB15 (2.5M+ records, 139 features)
+<i>Dataset: UNSW-NB15 (2.5M+ records, 139 features)</i>
 
 Final Model: XGBClassifier with 99.95% accuracy
 
