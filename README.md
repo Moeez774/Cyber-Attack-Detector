@@ -3,7 +3,6 @@
 This project demonstrates a complete machine learning pipeline to detect cyber attacks using a large-scale dataset of over 2.5 million records. It showcases the process of cleaning real-world data, preventing data leakage, handling mixed data types, and training a highly accurate classification model.
 
 <h3>Project Overview</h3>
-<ul>
 <i>Objective: Detect cyber attacks using tabular network data</i>
 
 <i>Dataset: UNSW-NB15 (2.5M+ records, 139 features)</i>
@@ -11,24 +10,23 @@ This project demonstrates a complete machine learning pipeline to detect cyber a
 <i>Final Model: XGBClassifier with 99.95% accuracy</i>
 
 <i>Challenge: Cleaning high-dimensional data with mixed types and missing values</i>
-</ul>
 
-Technologies Used
-Python 3.10+
+<h3>Technologies Used</h3>
+<h4>Python 3.10+</h4>
 
-pandas
+<i>pandas</i>
 
-numpy
+<i>numpy</i>
 
-scikit-learn
+<i>scikit-learn</i>
 
-xgboost
+<i>xgboost</i>
 
-imbalanced-learn (SMOTE, etc.)
+<i>imbalanced-learn (SMOTE, etc.)</i>
 
-matplotlib, seaborn
+<i>matplotlib, seaborn</i>
 
-Steps Covered
+<h3>Steps Covered</h3>
 Data Cleaning
 
 Removed columns with excessive null values
