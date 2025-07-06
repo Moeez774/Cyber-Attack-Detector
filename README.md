@@ -4,18 +4,26 @@ This project demonstrates a complete machine learning pipeline to detect cyber a
 
 <h3>Project Overview</h3>
 <i>Objective: Detect cyber attacks using tabular network data</i>
+
 <i>Dataset: UNSW-NB15 (2.5M+ records, 139 features)</i>
+
 <i>Final Model: XGBClassifier with 99.95% accuracy</i>
+
 <i>Challenge: Cleaning high-dimensional data with mixed types and missing values</i>
 
 <h3>Technologies Used</h3>
 <h4>Python 3.10+</h4>
 
 <i>pandas</i>
+
 <i>numpy</i>
+
 <i>scikit-learn</i>
+
 <i>xgboost</i>
+
 <i>imbalanced-learn (SMOTE, etc.)</i>
+
 <i>matplotlib, seaborn</i>
 
 <h3>Steps Covered</h3>
